@@ -59,8 +59,8 @@ body{
     text-align: center;
 }
 .card-info-one{padding: 4em 0px 0px;}
-.card-info-one h3{font-size: 18px;}
-.card-info-one h3:hover{
+.card-info-one h1{font-size: 18px;}
+.card-info-one h1:hover{
     transition: .4s ease;
     color: hsl(185, 75%, 39%);
 }
